@@ -1,6 +1,8 @@
 
 # Personalized_Greeting_Card_Generate: Step-By-Step guide for use this project
 
+## 🔗 Social Media Links:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikantapramanik/)
 ## Libraries Used: 
 
 I have used some python libraries to complete the project , the libraries and what the
