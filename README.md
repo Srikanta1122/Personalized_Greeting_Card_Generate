@@ -149,20 +149,20 @@ Go to the Greeting_Card.py file
   run this file. 
 ```
 
-Wait 
+Wait
 
 ```bash
-  it's takes lot of time for pre-train model successfully install in your local machine.  
+  "it's takes lot of time for pre-train model successfully install in your local machine".  
 ```
 
-click the IP link that show in the terminal
+Click the IP link that show in the terminal
 
 ```bash
-  enter the emp_id and number of images that you have to generate, then click the submit button. 
-  it will also take some time for generate the images. 
+  'enter the emp_id and number of images that you have to generate, then click the submit button. 
+  it will also take some time for generate the images'. 
 ```
 
-## Final Output:
+## Final Output: 
 
-![Image](https://github.com/Srikanta1122/Personalized_Greeting_Card_Generate/assets/105414609/1aa73f89-91dc-4877-b45f-0de19b149b1a)  
+![Image](https://github.com/Srikanta1122/Personalized_Greeting_Card_Generate/assets/105414609/1aa73f89-91dc-4877-b45f-0de19b149b1a)
 
