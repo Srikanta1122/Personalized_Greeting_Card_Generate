@@ -2,7 +2,8 @@ Personalized Greeting Card Generate: step-by-step
 
 Libraries Used: 
 I have used some python libraries to complete the project , the libraries and what the
-libraries does in my project is given below….
+libraries does in my project is given below…
+
 • torch: PyTorch library, commonly used for deep learning tasks. In this case, it seems to
 be utilized for the Stable Diffusion XL model.
 
